@@ -6,4 +6,4 @@ layout: page
 title: Projects
 ---
 
-This is a test landing page
+- [Masters Thesis](masters)
