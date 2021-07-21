@@ -34,12 +34,10 @@ linkedin_username: rohan-hitchcock
 theme: minima
 
 header_pages:
-  - about.md
-  - projects/index.md
+  - projects.md
 
 plugins:
   - jekyll-feed
-
 
 
 
