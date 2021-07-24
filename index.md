@@ -6,7 +6,8 @@ layout: home
 ---
 
 My name is Rohan Hitchcock and I am currently a Masters student studying at 
-the University of Melbourne. My supervisor is Dr Daniel Murfet. 
+the University of Melbourne. My supervisor is Dr Daniel Murfet. You can read my 
+CV [here](cv).
 
 
 # Projects
