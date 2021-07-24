@@ -9,7 +9,7 @@ My name is Rohan Hitchcock and I am currently a Masters student studying at
 the University of Melbourne. My supervisor is Dr Daniel Murfet. 
 
 
-## Projects
+# Projects
 <ul class="post-list">
 {%- for apage in site.pages -%}
     {%- if apage.project == true -%}
