@@ -5,7 +5,7 @@
 layout: post
 title: Masters
 project: true
-excerpt: This page contains a collection of notes from my masters thesis.
+excerpt: My masters project is investigating the theory of deep learning using tools from algebraic geometry.
 ---
 
 This page contains a collection of notes from my Master of Science in Mathematics and Statistics

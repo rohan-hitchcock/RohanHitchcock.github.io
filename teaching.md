@@ -28,13 +28,15 @@ designing the seminars' curriculum, mentoring students preparing for their talks
 and general seminar administration.
 
 ### Neural Networks (2021 Sem. 1)
+Co-organised with Nora Ganter.
+
 Topics:
-- **Introduction:** What is machine learning? Logistic regression.
-- **Defining neural networks:** What is a neural network? Explain the need 
+- *Introduction:* What is machine learning? Logistic regression.
+- *Defining neural networks:* What is a neural network? Explain the need 
 for activation functions and state approximation results.
-- **Training neural networks:** Discuss gradient descent and backpropagation. 
-- **GANs part 1:** Discuss the standard GAN formulation.
-- **GANs part 2:** Discuss the Wasserstein GAN, as introduced in Arjovsky, Chintala, Bottou, "Wasserstein GAN" [arXiv:1701.07875](http://arxiv.org/abs/1701.07875).
+- *Training neural networks:* Discuss gradient descent and backpropagation. 
+- *GANs part 1:* Discuss the standard GAN formulation.
+- *GANs part 2:* Discuss the Wasserstein GAN, as introduced in Arjovsky, Chintala, Bottou, "Wasserstein GAN" [arXiv:1701.07875](http://arxiv.org/abs/1701.07875).
 
 Texts:
 - Nielsen (2015) *Neural Networks and Deep Learning*. Determination Press, 2015. <http://neuralnetworksanddeeplearning.com>
@@ -44,19 +46,31 @@ Texts:
  
 
 ### Game Theory (2020 Sem. 2)
+Co-organised with Nora Ganter, Jonah Nelson, Kshitija Vaidya, and Chengjing Zhang.
+
 Topics:
-- **Introduction to games**
-- **Nash equilibrium**
-- **Compactness in** $$\mathbb{R}^n$$
-- **Kakutani's Theorem**
-- **Zero-sum games**
-- **Minmax Theorem**
-- **Solution concepts**
+- *Introduction to games*
+- *Nash equilibrium*
+- *Compactness in* $$\mathbb{R}^n$$
+- *Kakutani's Theorem*
+- *Zero-sum games*
+- *Minmax Theorem*
+- *Solution concepts*
 
 Texts:
 - Fudenberg, Tirole (1991) *Game theory.* Cambridge, Massachusetts: MIT Press.
 - Leyton-Brown, Shoham (2008) *Essentials of game theory: a concise, multidisciplinary introduction.* San Rafael, California: Morgan & Claypool Publishers. 
 
+### Foundations of Mathematical Cryptography (2020 Sem. 1)
+Co-organised with Majid Alamudi, Nora Ganter, Adam Walsh, Chengjing Zhang and Gufang Zhao. 
 
-
+Topics:
+- *Introduction to proofs*
+- *Binomial coefficients*
+- *Modular arithmetic, Euclidean algorithm, Bezout's Lemma*
+- *Prime factorisation*
+- *RSA*
+- *Groups and cosets*
+- *Discrete logarithm part 1*
+- *Discrete logarithm part 2*
 

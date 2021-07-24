@@ -3,6 +3,7 @@ layout: post
 title: AMSI Vacation Research Scholarship
 project: true
 katex: true
+excerpt: In the summer of 2019/2020 I completed a six week research project at the University of Western Australia looking at the exceptional groups of type E6.
 ---
 
 In the summer of 2019/2020 I completed a six week research project at the 
