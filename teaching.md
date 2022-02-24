@@ -7,14 +7,16 @@ katex: true
 ## Tutoring Experience 
 I am currently tutor within the School of Mathematics and Statistics and the School
 of Computing and Information Systems at the University of Melbourne.
+- **COMP30024 Artificial Intelligence** (2022 Sem. 1, Tutor): A third-year computer 
+science subject. Topics include search, game playing, auction design and constraint 
+satisfaction problems. Uses the Python programming language.
+- **MAST10007 Linear Algebra** (2022 Sem. 1, Tutor) An introductory course in 
+linear algebra.
 - **COMP30026 Models of Computation** (2021 Sem. 2, Tutor) A third-year 
 computer science subject. Topics include logic, automata theory, computability,
 discrete mathematics. Uses the Haskell programming language.
-- **MAST10007 Linear Algebra** (2021 Sem. 2, Tutor) An introductory course in 
-linear algebra.
-- **COMP30024 Artificial Intelligence** (2021 Sem. 1, Tutor): A third-year computer 
-science subject. Topics include search, game playing, auction design and constraint 
-satisfaction problems. Uses the Python programming language.
+- **MAST10007 Linear Algebra** (2021 Sem. 2, Tutor)
+- **COMP30024 Artificial Intelligence** (2021 Sem. 1, Tutor)
 - **MAST10005 Calculus 1** (2021 Sem. 1, Tutor) A introductory course 
 in calculus.
 - **COMP30026 Models of Computation** (2020 Sem. 1, Tutor)
@@ -39,8 +41,8 @@ for activation functions and state approximation results.
 - *GANs part 2:* Discuss the Wasserstein GAN, as introduced in Arjovsky, Chintala, Bottou, "Wasserstein GAN" [arXiv:1701.07875](http://arxiv.org/abs/1701.07875).
 
 Texts:
-- Nielsen (2015) *Neural Networks and Deep Learning*. Determination Press, 2015. <http://neuralnetworksanddeeplearning.com>
-- Liquet, Moka, Nazarathy (2020) *The Mathematical Engineering of Deep Learning*. 2020. <https://deeplearningmath.org>
+- Nielsen (2015) *Neural Networks and Deep Learning*. Determination Press, <http://neuralnetworksanddeeplearning.com>
+- Liquet, Moka, Nazarathy (2020) *The Mathematical Engineering of Deep Learning*. <https://deeplearningmath.org>
 - Goodfellow, Bengio, Courville (2016) *Deep learning*. Cambridge, Massachusetts: MIT Press.
 - Arjovsky, Chintala, Bottou (2017) "Wasserstein GAN" [arXiv:1701.07875](http://arxiv.org/abs/1701.07875).
  

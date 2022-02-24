@@ -20,9 +20,7 @@
 
 title: Rohan Hitchcock
 email: rohan.hitchcock@pm.me
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a graduate mathematics student at the University of Melbourne. My 
-  main mathematical interests are algebraic geometry, deep learning and singular learning theory. 
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -34,7 +32,6 @@ linkedin_username: rohan-hitchcock
 theme: minima
 
 header_pages:
-  - projects.md
   - teaching.md
 
 plugins:
