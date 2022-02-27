@@ -43,12 +43,11 @@ This was an assessment piece for a subject called *Communication for Research Sc
 - Notes from a talk on blow-ups and singular learning theory ([notes](notes/blowups.pdf)).
 - A 'Stone-Weierstrass' Theorem for neural networks ([notes](notes/nn-approximation.pdf)).
 
-## AMSI Summer School: The Mathematical Engineering of Deep Learning
 In the January 2021 I completed the course 
 [*The Mathematical Engineering of Deep Learning*](https://deeplearningmath.org)
 as part of the [Australian Mathematical Sciences Institute Summer School](https://ss.amsi.org.au). 
 
-- Final project ([notes](notes/amsi-ss-final-project-abstract.pdf), [video](https://youtu.be/UnyXhQRXOoU)). This project was a review and demonstration of results in the paper "Wasserstein GAN" (2017)
+- Final project ([notes](notes/amsi-ss-final-project-abstract.pdf), [video](https://youtu.be/UnyXhQRXOoU), [code](https://github.com/rohan-hitchcock/deep-learning-math-course)). This project was a review and demonstration of results in the paper "Wasserstein GAN" (2017)
 by M. Arjovsky, S. Chintala, and L. Bottou [arXiv: 1701.07875 \[stat.ML\]](https://arxiv.org/abs/1701.07875).
 
 
