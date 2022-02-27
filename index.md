@@ -23,7 +23,7 @@ and $$V(y_1, \cdots, y_m)$$ are algebraic subsets of the zero set of $$U - V$$.
 ### Talks in the [Metauni Landau-Ginzburg Seminar](https://metauni.org/posts/events/seminar-lg)
 - An introduction to bicategories ([notes](notes/bicategories.pdf), [video](https://www.youtube.com/watch?v=K6W_3tMz0qA)).
 - Matrix factorisations and geometry ([notes](notes/matrix-factorisations-geometry.pdf), [video](https://www.youtube.com/watch?v=Wa_kQs0PGKY)).
-- The Perturbation Lemma ([notes](notes/pertubation-lemma.pdf)).
+- The Perturbation Lemma ([notes](notes/pertubation-lemma.pdf), [video1](https://www.youtube.com/watch?v=-gWUA5tCgc4)).
 
 ### Other notes
 - Introduction to idempotent completion in preadditive categories ([notes](notes/idempotents.pdf)).
