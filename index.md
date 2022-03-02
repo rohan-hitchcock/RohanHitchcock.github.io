@@ -57,6 +57,13 @@ by Kato et. al. [doi:10.4049/jimmunol.2000549](https://doi.org/10.4049/jimmunol.
 My contribution to this paper consisted of writing simulations of biological processes 
 to support experimental data, and rewriting legacy image processing code. 
 This work was undertaken while I was a research assistant at the Peter Doherty Institute for Infection and Immunity.
+- From June 2018 to August 2020 I worked on a cross-disciplinary research project 
+at The Peter Doherty Institute for Infection and Immunity and The University of 
+Melbourne ([code](https://github.com/rohan-hitchcock/tcells-portfolio)). 
+The aim of this project wa to determine a stochastic model the motion for a certain population of immune 
+cells residing in the liver. I worked with and was supervised by Dr Lynette Beattie (Dept. Microbiology and Immunology), 
+Professor Jonathan Manton (Dept. Electrical and Electronic Engineering) 
+and Professor William Heath (Dept. Microbiology and Immunology), all at The University of Melbourne.
 - [AMSI Vacation Research Scholarship]((https://vrs.amsi.org.au/student-profile/rohan-hitchcock/)) ([report](notes/amsi-vrs-report.pdf)).
 In the summer of 2019/2020 I completed a six week research project at the 
 University of Western Australia under the supervision of Dr John Bamberg and Professor 
