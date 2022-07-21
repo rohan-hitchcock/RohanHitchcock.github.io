@@ -7,14 +7,16 @@ katex: true
 ## Tutoring Experience 
 I am currently tutor within the School of Mathematics and Statistics and the School
 of Computing and Information Systems at the University of Melbourne.
+- **COMP30026 Models of Computation** (2022 Sem. 2, Tutor) A third-year 
+computer science subject. Topics include logic, automata theory, computability,
+discrete mathematics. Uses the Haskell programming language.
+- **MAST10007 Linear Algebra** (2022 Sem. 2, Tutor) An introductory course in 
+linear algebra.
 - **COMP30024 Artificial Intelligence** (2022 Sem. 1, Tutor): A third-year computer 
 science subject. Topics include search, game playing, auction design and constraint 
 satisfaction problems. Uses the Python programming language.
-- **MAST10007 Linear Algebra** (2022 Sem. 1, Tutor) An introductory course in 
-linear algebra.
-- **COMP30026 Models of Computation** (2021 Sem. 2, Tutor) A third-year 
-computer science subject. Topics include logic, automata theory, computability,
-discrete mathematics. Uses the Haskell programming language.
+- **MAST10007 Linear Algebra** (2022 Sem. 1, Tutor)
+- **COMP30026 Models of Computation** (2021 Sem. 2, Tutor)
 - **MAST10007 Linear Algebra** (2021 Sem. 2, Tutor)
 - **COMP30024 Artificial Intelligence** (2021 Sem. 1, Tutor)
 - **MAST10005 Calculus 1** (2021 Sem. 1, Tutor) A introductory course 
